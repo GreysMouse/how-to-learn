@@ -1,0 +1,11 @@
+.logo {
+  display: flex;
+  z-index: 3;
+  width: 183px;
+  height: 32px;
+  transition: opacity 0.3s linear;
+}
+
+.logo:hover {
+  opacity: .65;
+}
